@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1357f989167e644",
+        "id": "aa43dfc23b01548b",
         "type": "tabs",
         "children": [
           {
-            "id": "703b83b0e74eb661",
+            "id": "3d523f582519c6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "第一篇笔记.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cefed0638cdb5df",
+  "active": "3d523f582519c6da",
   "lastOpenFiles": [
     "第一篇笔记.md"
   ]
