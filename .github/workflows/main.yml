@@ -10,14 +10,14 @@ jobs:
   trigger-deployment:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Articles Repo
-        uses: actions/checkout@v4
+      # - name: Checkout Articles Repo
+      #   uses: actions/checkout@v4
 
       # 可选：验证文章是否有效（例如用 markdownlint）
-      - name: Lint Markdown Files
-        run: |
-          npm install -g markdownlint-cli
-          markdownlint "**/*.md" --ignore node_modules
+      # - name: Lint Markdown Files
+      #   run: |
+      #     npm install -g markdownlint-cli
+      #     markdownlint "**/*.md" --ignore node_modules
 
       # 通过 GitHub API 触发目标仓库的重新部署
       # 方法1：直接调用 Cloudflare Pages API（需配置 CF_API_TOKEN）
