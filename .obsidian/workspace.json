@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一篇笔记.md",
-                "mode": "source",
+                "file": "前端/第一篇笔记.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -176,6 +176,7 @@
   },
   "active": "3d523f582519c6da",
   "lastOpenFiles": [
-    "第一篇笔记.md"
+    "前端",
+    "前端/第一篇笔记.md"
   ]
 }
