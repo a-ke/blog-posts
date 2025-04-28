@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "第一篇笔记.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "第一篇笔记"
