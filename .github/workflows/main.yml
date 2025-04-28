@@ -24,4 +24,4 @@ jobs:
       - name: Trigger Cloudflare Pages Deployment
         run: |
           curl -X POST \
-            "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/377fe16d-a028-4ee3-b418-f70754086bf8"
+            "${{variables.CLOUDFLARE_DEPLOY_WEBHOOK}}"
