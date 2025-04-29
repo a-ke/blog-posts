@@ -1,8 +1,7 @@
 ---
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
+title: docker代理设置
+published: 2025-04-29
+description: docker国内下载镜像失败时，可以通过设置代理来绕过限制
 tags:
   - linux
   - docker
