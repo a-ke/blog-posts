@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/未命名.md",
+                "file": "前端/第一篇笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "第一篇笔记 的大纲"
             }
           },
           {
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a737d1911daf35a",
+  "active": "0c89ca9873a301d7",
   "lastOpenFiles": [
-    "前端/第一篇笔记.md",
     "前端/未命名.md",
+    "前端/第一篇笔记.md",
     "linux/docker代理设置.md",
     "linux",
     "2022-07-01.md",
