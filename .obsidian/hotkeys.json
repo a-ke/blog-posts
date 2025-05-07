@@ -1,1 +1,10 @@
-{}
+{
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "/"
+    }
+  ]
+}

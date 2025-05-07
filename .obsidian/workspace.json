@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/第一篇笔记.md",
+                "file": "linux/docker代理设置.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一篇笔记"
+              "title": "docker代理设置"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/第一篇笔记.md",
+                "file": "linux/docker代理设置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一篇笔记 的大纲"
+              "title": "docker代理设置 的大纲"
             }
           },
           {
@@ -175,14 +175,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0c89ca9873a301d7",
   "lastOpenFiles": [
-    "前端/未命名.md",
-    "前端/第一篇笔记.md",
     "linux/docker代理设置.md",
+    "前端/第一篇笔记.md",
+    "前端/未命名.md",
     "linux",
     "2022-07-01.md",
     "前端"
