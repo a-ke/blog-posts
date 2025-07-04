@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "前端/typescript入门.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -150,7 +150,7 @@
             }
           },
           {
-            "id": "9cefed0638cdb5df",
+            "id": "ac65544943063309",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {

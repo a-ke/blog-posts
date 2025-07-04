@@ -4,7 +4,7 @@ published: 2025-07-04
 tags:
   - typescript
 category: typescript
-draft: true
+draft: false
 ---
 
 ## 认识类型编程

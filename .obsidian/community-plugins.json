@@ -1,5 +1,7 @@
 [
   "obsidian-git",
+  "obsidian-style-settings",
   "obsidian-scroll-to-top-plugin",
-  "templater-obsidian"
+  "quickadd",
+  "editing-toolbar"
 ]
