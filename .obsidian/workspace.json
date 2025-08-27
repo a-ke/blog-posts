@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/typescript入门.md",
+                "file": "linux/docker代理设置.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typescript入门"
+              "title": "docker代理设置"
             }
           }
         ]
@@ -180,9 +180,9 @@
   },
   "active": "60280536b07d64d5",
   "lastOpenFiles": [
-    "2025-04-28.md",
     "前端/typescript入门.md",
     "前端/第一篇笔记.md",
+    "2025-04-28.md",
     "linux/docker代理设置.md",
     "前端/typescript入门~.md",
     "linux",
