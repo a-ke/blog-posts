@@ -168,22 +168,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "60280536b07d64d5",
   "lastOpenFiles": [
-    "2025-04-28.md",
-    "前端/typescript入门.md",
-    "前端/第一篇笔记.md",
     "linux/docker代理设置.md",
+    "前端/第一篇笔记.md",
+    "前端/typescript入门.md",
+    "2025-04-28.md",
     "前端/typescript入门~.md",
     "linux",
     "2022-07-01.md",
